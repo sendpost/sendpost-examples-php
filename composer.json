@@ -1,0 +1,15 @@
+{
+    "name": "sendpost/sendpost-examples-php",
+    "description": "Simple examples demonstrating SendPost PHP SDK usage for sending emails with CC, BCC, and attachments",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "sendpost/sendpost-php-sdk": "^1.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SendPost\\Examples\\": "src/"
+        }
+    }
+}
+
