@@ -28,7 +28,7 @@ This repository contains simple, practical examples demonstrating how to use the
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sendpost/sendpost-examples-php
 cd sendpost-examples-php
 ```
 
